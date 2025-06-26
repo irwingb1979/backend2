@@ -13,6 +13,18 @@ You can explore the live demo of the backend at the following link: [Live Demo](
 - **Authentication**: Implements user authentication for secure access (if applicable).
 - **Deployment**: Deployed on Render for easy scalability and management.
 
+## API Endpoints
+
+The following API endpoints are available:
+
+- **Hero Route**: 
+  - `GET /api/hero` - Retrieve hero data.
+  - `POST /api/hero` - Create a new hero entry.
+  
+- **Body Route**: 
+  - `GET /api/body` - Retrieve body data.
+  - `POST /api/body` - Create a new body entry.
+
 ## Getting Started
 
 To run this backend locally, follow these steps:
